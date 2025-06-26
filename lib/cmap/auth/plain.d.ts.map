@@ -1,0 +1,1 @@
+{"version":3,"file":"plain.d.ts","sourceRoot":"","sources":["../../../src/cmap/auth/plain.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,KAAK,WAAW,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAEjE,qBAAa,KAAM,SAAQ,YAAY;IACtB,IAAI,CAAC,WAAW,EAAE,WAAW,GAAG,OAAO,CAAC,IAAI,CAAC;CAkB7D"}

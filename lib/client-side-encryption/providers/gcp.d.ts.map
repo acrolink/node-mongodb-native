@@ -1,0 +1,1 @@
+{"version":3,"file":"gcp.d.ts","sourceRoot":"","sources":["../../../src/client-side-encryption/providers/gcp.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,YAAY,EAAE,MAAM,GAAG,CAAC;AAEtC,gBAAgB;AAChB,wBAAsB,kBAAkB,CAAC,YAAY,EAAE,YAAY,GAAG,OAAO,CAAC,YAAY,CAAC,CAW1F"}

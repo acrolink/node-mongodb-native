@@ -1,0 +1,1 @@
+{"version":3,"file":"aws.d.ts","sourceRoot":"","sources":["../../../src/client-side-encryption/providers/aws.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,KAAK,qBAAqB,EAE3B,MAAM,2CAA2C,CAAC;AACnD,OAAO,EAAE,KAAK,YAAY,EAAE,MAAM,GAAG,CAAC;AAEtC;;GAEG;AACH,wBAAsB,kBAAkB,CACtC,YAAY,EAAE,YAAY,EAC1B,QAAQ,CAAC,EAAE,qBAAqB,GAC/B,OAAO,CAAC,YAAY,CAAC,CAoBvB"}

@@ -1,0 +1,14 @@
+export declare const MIN_SUPPORTED_SERVER_VERSION = "4.2";
+export declare const MAX_SUPPORTED_SERVER_VERSION = "8.0";
+export declare const MIN_SUPPORTED_WIRE_VERSION = 8;
+export declare const MAX_SUPPORTED_WIRE_VERSION = 25;
+export declare const MIN_SUPPORTED_QE_WIRE_VERSION = 21;
+export declare const MIN_SUPPORTED_QE_SERVER_VERSION = "7.0";
+export declare const OP_REPLY = 1;
+export declare const OP_UPDATE = 2001;
+export declare const OP_INSERT = 2002;
+export declare const OP_QUERY = 2004;
+export declare const OP_DELETE = 2006;
+export declare const OP_COMPRESSED = 2012;
+export declare const OP_MSG = 2013;
+//# sourceMappingURL=constants.d.ts.map
